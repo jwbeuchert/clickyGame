@@ -23,13 +23,13 @@ const initialChars = [
         clicked: false
     },
     {
-        name: 'Carmelo Anthony',
-        img: 'img/250x180/carmelo-anthony.png',
+        name: 'Derrick Rose NY',
+        img: 'img/250x180/derrick-rose-ny.png',
         clicked: false
     },
     {
-        name: 'Colby Bryant',
-        img: 'img/250x180/colby-bryant.png',
+        name: 'Kobe Bryant',
+        img: 'img/250x180/kobe-bryant.png',
         clicked: false
     },
     {
